@@ -1,3 +1,7 @@
+```
+Please note that this repository is incomplete.
+```
+
 # Movie Recommendation System
 
 To help customers choose movies to watch, companies such as Netflix have developed world-class movie recommendation systems. You can also find large scale recommendation systems in retail or music streaming.

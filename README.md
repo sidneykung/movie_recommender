@@ -10,6 +10,10 @@ Data is sourced from the [MovieLens](https://grouplens.org/datasets/movielens/la
 
 This project uses the "small" dataset containing 100,000 ratings and 3,600 tag applications applied to 9,000 movies by 600 users. Users were selected at random for inclusion. All selected users rated at least 20 movies. No demographic information is included. Each user is represented by an id, and no other information is provided.
 
+## Collaborative Filtering
+
+Collaborative filtering systems use a collection of user data such as ratings to make recommendations. A common problem with this approach is the "cold start problem" where the system cannot draw inferences for users or items for which it hasn't gained sufficient information. This problem can be addressed by using a hybrid of content-based filtering.
+
 ## Evaluation
 
 [FastML - Evaluating Recommender Systems](http://fastml.com/evaluating-recommender-systems/)

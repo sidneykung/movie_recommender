@@ -16,7 +16,9 @@ This project uses the "small" dataset containing 100,000 ratings and 3,600 tag a
 
 ## Collaborative Filtering
 
-Collaborative filtering systems use a collection of user data such as ratings to make recommendations. A common problem with this approach is the "cold start problem" where the system cannot draw inferences for users or items for which it hasn't gained sufficient information. This problem can be addressed by using a hybrid of content-based filtering.
+Collaborative filtering systems use a collection of user data such as ratings to make recommendations. 
+
+A common problem with this approach is the "cold start problem" where the system cannot draw inferences for users or items for which it hasn't gained sufficient information. This problem can be addressed by using a hybrid of content-based filtering.
 
 ## Evaluation
 

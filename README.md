@@ -23,3 +23,13 @@ A problem with this approach is the "cold start problem" where the system cannot
 ## Evaluation
 
 [FastML - Evaluating Recommender Systems](http://fastml.com/evaluating-recommender-systems/)
+
+## For More Information
+
+- For additional information or suggestions, contact Sidney Kung at [sidneyjkung@gmail.com](mailto:sidneyjkung@gmail.com)
+
+**Let's connect!**
+
+- [LinkedIn](https://www.linkedin.com/in/sidneykung/)
+
+- [Twitter](https://twitter.com/sidney_k98)

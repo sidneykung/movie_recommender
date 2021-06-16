@@ -8,7 +8,7 @@ To help customers choose movies to watch, companies such as Netflix have develop
 
 The goal of this project is to build a model that provides the top 5 movie recommendations to a user, based on their ratings of other movies.
 
-## Data Understanding
+## Data Source
 
 Data is sourced from the [MovieLens](https://grouplens.org/datasets/movielens/latest/) dataset from the GroupLens research lab at the University of Minnesota.
 
